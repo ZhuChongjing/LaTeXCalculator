@@ -1,0 +1,2 @@
+# LaTeXCalculator
+A Python package for performing mathematical calculations using LaTeX syntax.
