@@ -2,6 +2,8 @@
 
 A Python package for performing mathematical calculations using LaTeX syntax.
 
+See the document at [LaTeXCalculator's Document](https://zhuchongjing.github.io/LaTeXCalculator-docs).
+
 ## Description
 
 LaTeXCalculator is a powerful Python library that allows you to perform mathematical calculations using LaTeX syntax. It provides a simple and intuitive interface for evaluating complex mathematical expressions, solving equations, computing integrals, derivatives, limits, and more. Whether you're a student, researcher, or professional, LaTeXCalculator makes it easy to work with mathematical expressions in a format that's familiar to many in the scientific and mathematical community.
